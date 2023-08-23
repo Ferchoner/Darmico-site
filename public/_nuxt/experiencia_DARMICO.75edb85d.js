@@ -1,0 +1,1 @@
+import"./entry.87ec3587.js";const _=""+new URL("equis_DARMICO.c4d6c272.svg",import.meta.url).href,e=""+new URL("experiencia_DARMICO.9ca537a2.png",import.meta.url).href,o=Object.freeze(Object.defineProperty({__proto__:null,default:e},Symbol.toStringTag,{value:"Module"}));export{_,e as a,o as e};
