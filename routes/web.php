@@ -3,13 +3,6 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\PricingController;
 
-function getSPAfile() {
-    if (env('APP_ENV', 'local') === 'local') {
-        return public_path('spa.html');
-    }
-    return base_path('public_html/spa.html');
-}
-
 /*
 |--------------------------------------------------------------------------
 | Web Routes
